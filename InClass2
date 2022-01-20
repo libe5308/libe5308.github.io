@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Week 2 practice</title>
+</head>
+<body>
+<h1> This is an <u>H1 header</u></h1>
+<h2> This is an H2</H2>
+<h3> This is an H3</H3>
+<h4> THis is an h4</h4>
+<h5 This is an h5</h5>
+<h6> This is an h6</h6>
+<p>Hi, my name is <strong>Lindsay!</strong>
+Test test test </p>
+<p>I'm <em>practicing</em> HTML</p>
+
+<h1> <a href="www.pitchfork.com"> Pitchfork </a></h1>
+<a href"subdirectory/file.html">sub-directory file</a></p>
+  <p><a href="../index.html">parent directory </a></p>
+</body>
+</html>

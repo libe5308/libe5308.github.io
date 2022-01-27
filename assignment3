@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Wikipedia Page</title>
   </head>
-  <body></body>
+  <body>
     <h1> Penguin </h1>
     <img src ="img/webassignment2.jpg" alt = "Pic of me" style="width:300px;height:250px;">
     <h2>Overview</h2>
